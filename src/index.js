@@ -19,4 +19,3 @@ module.exports = function getLoveTrianglesCount(preferences = []) {
   return count / 3;
 };
 
-getLoveTrianglesCount([1,2,4]);
